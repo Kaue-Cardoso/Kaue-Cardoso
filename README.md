@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, Kauê Cardoso 😁
+## Bem-vindo(a) ao meu perfil, Kauê Cardoso 👾
 
  <div>
    <a href="https://github.com/Kaue-Cardoso">
