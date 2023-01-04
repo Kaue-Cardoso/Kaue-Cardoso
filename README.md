@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, Kauê Cardoso 👾
+## Bem-vindo(a) ao meu perfil 👾
 
  <div>
    <a href="https://github.com/Kaue-Cardoso">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Contatos:
  
 <div> 
   <a href = "mailto:kauec123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
