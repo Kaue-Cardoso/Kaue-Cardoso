@@ -1,9 +1,64 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kauê - QA Engineer</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .card {
+            background-color: #161b22;
+            border: 1px solid #30363d;
+            border-radius: 12px;
+            padding: 40px;
+            max-width: 500px;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+            text-align: center;
+        }
+        h1 {
+            color: #58a6ff;
+            margin-bottom: 10px;
+            font-size: 28px;
+        }
+        .role {
+            color: #8b949e;
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        p {
+            line-height: 1.6;
+            font-size: 15px;
+            color: #b1bac4;
+        }
+        .highlight {
+            color: #f0f6fc;
+            font-weight: 600;
+        }
+    </style>
+</head>
+
+
 ## Bem-vindo(a) ao meu perfil 👾
 
  <div>
-  
-   <a href="https://github.com/Kaue-Cardoso">
 
+  <div class="card">
+        <h1>Kauê</h1>
+        <div class="role">QA Engineer | Automação de Testes</div>
+        <p>
+            Com sólida experiência no ciclo de desenvolvimento de <span class="highlight">software e games</span>, atuo estrategicamente na <span class="highlight">automação de testes</span> para assegurar alta performance, estabilidade e excelência na entrega de produtos digitais.
+        </p>
+    </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
