@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 👾
+## Bem-vind(a) ao meu perfil 👾
 
  <div>
 
