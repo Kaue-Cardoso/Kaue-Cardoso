@@ -2,13 +2,6 @@
 
  <div>
 
-  <div class="card">
-        <h1>Kauê Cardoso</h1>
-        <div class="role">QA Engineer | Automação de Testes</div>
-        <p>
-            Com sólida experiência no ciclo de desenvolvimento de <span class="highlight">software e games</span>, atuo estrategicamente na <span class="highlight">automação de testes</span> para assegurar alta performance, estabilidade e excelência na entrega de produtos digitais.
-        </p>
-    </div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
